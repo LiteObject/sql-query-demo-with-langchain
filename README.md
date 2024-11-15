@@ -1,1 +1,1 @@
-# sql-query-demo-with-langchain
+# SQL Query Demo with LangChain
