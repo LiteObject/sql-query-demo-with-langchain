@@ -20,7 +20,7 @@ langchain==0.3.7
 langchain-community==0.3.7
 langchain-core==0.3.18
 langchain-ollama==0.2.0
-langchain-text-splitters==0.3.2
+langchain-text-splitters==1.0.0a1
 langsmith==0.1.143
 marshmallow==3.23.1
 multidict==6.1.0
